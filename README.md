@@ -2,7 +2,6 @@
 
 This repository holds individual utilities and their associated files.
 
-- [Waterfox Updater](Waterfox%20Updater/)
 - [Branch conventions](BRANCHING.md)
 - [Documentation index](docs/DOCUMENTATION.md)
 
